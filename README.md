@@ -1,1 +1,1 @@
-# HTTP-Method
+GET
